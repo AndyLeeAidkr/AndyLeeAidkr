@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AndyLeeAidkr
+- 👋 Hi, I’m @AndyLee
 - 👀 I’m interested in ...React
 - 🌱 I’m currently learning ...NestJS
 - 💞️ I’m looking to collaborate on ...Full Stack
